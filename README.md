@@ -1,1 +1,1 @@
-# Proyecto-FinancieroAgregando texto para PR.
+# Proyecto-Financiero Agregando texto para PR.
